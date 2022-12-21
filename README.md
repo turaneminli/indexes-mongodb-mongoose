@@ -1,6 +1,6 @@
 # Query performance optimization
 
-The experiment results were derived according to 5255 documents.
+The experiment results for indexing and lean method were derived according to 5255 documents.
 
 ## Indexes with MongoDB / Mongoose
 
